@@ -6,15 +6,26 @@ The dashboard tracks key business KPIs such as Total Sales, Total Profit, Active
 
 
 💡 Skills applied in this project:
+
  • Power Query & Power BI
+ 
  • Data Modeling & DAX
+ 
  • Analytical Thinking & Sales KPI Design
+ 
  • Dashboard Design & Data Visualization
+ 
 
 
 📈 Business Improvement Suggestions:
+
  • Focus on high-profit products and categories while reviewing low-margin items.
+ 
  • Apply smarter pricing and discount strategies to protect profitability.
+ 
  • Strengthen sales efforts in top-performing regions and improve underperforming markets.
+ 
  • Leverage seasonal trends for better marketing and inventory planning.
+ 
  • Improve shipping efficiency and overall operational performance.
+ 
